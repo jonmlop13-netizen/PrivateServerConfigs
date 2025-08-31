@@ -1,0 +1,46 @@
+{
+    "DefaultMods": [
+        {
+            "Name": "Private Server Configs",
+            "UUID": "706600bf-f343-4c97-9117-82d5ca685bea",
+            "Version": "1.0.1",
+            "Author": "Mod By Daylight",
+            "DownloadLink": "https://cdn.discordapp.com/attachments/1411784024845975573/1411784141531381871/Configs.zip?ex=68b5e9f1&is=68b49871&hm=3f9d170f7d721c5083198bb0399a52dea52356875c8a12b95b8515813b0d156d&"
+        },
+        {
+            "Name": "Lobby Controls",
+            "UUID": "2cfffbd4-dd5f-4be6-b8a8-47c1ea76b341",
+            "Version": "1.2.1",
+            "Author": "Mod By Daylight",
+            "DownloadLink": "https://cdn.discordapp.com/attachments/1411784024845975573/1411784125777711126/LobbyControls.zip?ex=68b5e9ed&is=68b4986d&hm=cb7089bf781b15320a134389728827ad518757be48300c2a6197d877eba2e3e5&"
+        },
+        {
+            "Name": "Unreal Engine Console",
+            "UUID": "16bdc19f-2b88-4d95-a111-fb304f4e549b",
+            "Version": "1.0.0",
+            "Author": "Cranch & shmoul",
+            "DownloadLink": "https://cdn.discordapp.com/attachments/1411784024845975573/1411784074019864576/UnrealConsole.zip?ex=68b5e9e0&is=68b49860&hm=2c9a578ee39f835ea79bf62b16d619985ade20e8be583027dfd610f540aaa7d5&"
+        },
+        {
+            "Name": "Unlinked Sets",
+            "UUID": "daace3a2-8780-4f54-bc8e-a0d490990993",
+            "Version": "1.1.0",
+            "Author": "BrandonItaly",
+            "DownloadLink": "https://cdn.discordapp.com/attachments/1411784024845975573/1411784093158604920/UnlinkedSets.zip?ex=68b5e9e5&is=68b49865&hm=f60dc1cd8da3ba0842406c9d24cb02e7c9fe2a52b43a02d13f8dbd4d770b8c44&"
+        },
+        {
+            "Name": "Tutorial Characters",
+            "UUID": "b05b3faa-1180-4005-9a68-f1d4369e3c7b",
+            "Version": "1.0.2",
+            "Author": "BrandonItaly",
+            "DownloadLink": "https://cdn.discordapp.com/attachments/1411784024845975573/1411784104038629489/TutorialCharacters.zip?ex=68b5e9e8&is=68b49868&hm=b14035b9a6260016ebb30e9994878da5423d8ef781e2cbdaacf882b84e3323e4&"
+        },
+        {
+            "Name": "Adam Emission Instances",
+            "UUID": "53918b8d-40e9-4f47-8e91-238d9ebe8894",
+            "Version": "1.0.2",
+            "Author": "Your lord Adam",
+            "DownloadLink": "https://cdn.discordapp.com/attachments/1411784024845975573/1411784113819488356/pakchunk513AdamEmissionMaterials-WindowsNoEditor.zip?ex=68b5e9ea&is=68b4986a&hm=38f8e25618042e0fcb7f56809407a86e3d9d8a1299df7bb026f5ba1f6f51abff&"
+        }
+    ]
+}
